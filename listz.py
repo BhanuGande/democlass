@@ -1,17 +1,4 @@
-l1 = [1,2,3,4]
-l2 = [4,5,6,7]
-# print(l1+l2)
 
-# print(l2[3])
-# print(l2)
-# l2.append(4)
-# print(l2)
-# l2.pop()
-# del l2[2]
-# l2.remove(7)
-# print(l2*3)
-
-# print(l2)
 
 
 # loops to a list
